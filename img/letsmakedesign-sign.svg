@@ -1,0 +1,114 @@
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1400 330" style="enable-background:new 0 0 1400 330;" xml:space="preserve">
+  <style type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=Raleway:900');
+	.text-set{font-family: 'Raleway', sans-serif; font-size:120px; text-transform: uppercase;fill:none;stroke:#2A2829;opacity:0.3;}
+	.st5{clip-path:url(#SVGID_2_);}
+	.st6{clip-path:url(#SVGID_4_);}
+	.st7{clip-path:url(#SVGID_6_);}
+	.st8{clip-path:url(#SVGID_8_);}
+	.st9{clip-path:url(#SVGID_10_);}
+</style>
+<text class="text-set" transform="matrix(1 0 0 1 25.6809 117.1342)"><tspan x="0" y="0">let’s make a history</tspan>
+  <animate
+           begin="1s"
+           attributeName="opacity"
+           values="0.3;1;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3"
+           dur="2s"
+           repeatCount="indefinite"
+           />
+  </text>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="127.1" width="1400" height="45"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st5">
+		<text class="text-set" transform="matrix(1 0 0 1 25.6809 169.1342)"><tspan x="0" y="0">let’s make a history</tspan>
+      <animate
+           begin="1.2s"
+           attributeName="opacity"
+           values="0.3;1;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3"
+           dur="2s"
+           repeatCount="indefinite"
+           />
+    </text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_3_" y="180" width="1400" height="34"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st6">
+		<text class="text-set" transform="matrix(1 0 0 1 25.6809 210.1342)"><tspan x="0" y="0">let’s make a history</tspan>
+    <animate
+           begin="1.4s"
+           attributeName="opacity"
+           values="0.3;1;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3"
+           dur="2s"
+           repeatCount="indefinite"
+           /></text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_5_" y="220" width="1400" height="34"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st7">
+		<text class="text-set" transform="matrix(1 0 0 1 25.6809 249.1342)"><tspan x="0" y="0">let’s make a history</tspan>
+      <animate
+           begin="1.6s"
+           attributeName="opacity"
+           values="0.3;1;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3"
+           dur="2s"
+           repeatCount="indefinite"
+           />
+    </text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_7_" y="259" width="1400" height="34"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st8">
+		<text class="text-set" transform="matrix(1 0 0 1 25.6809 287.1342)"><tspan x="0" y="0">let’s make a history</tspan>
+    <animate
+           begin="1.8s"
+           attributeName="opacity"
+           values="0.3;1;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3"
+           dur="2s"
+           repeatCount="indefinite"
+           /></text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_9_" y="297" width="1400" height="34"/>
+	</defs>
+	<clipPath id="SVGID_10_">
+		<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st9">
+		<text class="text-set" transform="matrix(1 0 0 1 25.6809 324.1342)"><tspan x="0" y="0">let’s make a history</tspan>
+    <animate
+           begin="2s"
+           attributeName="opacity"
+           values="0.3;1;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3"
+           dur="2s"
+           repeatCount="indefinite"
+           /></text>
+	</g>
+</g>
+</svg>
